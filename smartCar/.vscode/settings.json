@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "wdog.h": "c",
+        "zf_common_headfile.h": "c",
+        "motor.h": "c",
+        "switch.h": "c"
+    }
+}
